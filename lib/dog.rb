@@ -8,7 +8,7 @@ class Dog
     @name = name
   end
 
-  def Mutt
+  def name
     @name
   end
 
