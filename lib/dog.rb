@@ -1,7 +1,7 @@
 # Create a new class called "Dog"
 class Dog
   def initialize(name)
-    @name = "Mutt"
+    @name = name
   end
 
   def name
