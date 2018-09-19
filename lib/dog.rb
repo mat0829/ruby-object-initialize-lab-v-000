@@ -1,6 +1,6 @@
 # Create a new class called "Dog"
 class Dog
-  def initialize(Mutt)
+  def initialize(name)
     @name = name
   end
 
