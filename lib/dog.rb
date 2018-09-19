@@ -1,9 +1,8 @@
 # Create a new class called "Dog"
 class Person
 
-def initialize(name, breed)
+def initialize(name)
   @name = name
-  @breed = "Mutt"
 end
 
 end
