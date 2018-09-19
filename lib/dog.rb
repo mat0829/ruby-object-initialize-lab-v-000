@@ -4,8 +4,8 @@ class Dog
     @name = name
   end
 
-  def name=(name)
-    @name = name
+  def name=(Mutt)
+    @name = Mutt
   end
 
   def name
